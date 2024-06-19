@@ -4,6 +4,7 @@
 ### 2. Design a four-Layer model can achieve 90% performance of ResNet34 (4_layer_model.ipynb)
 
 # How to run the code and reporduce the experiment
+## You need to clone the repository and download the Dataset from Moodle and create ./models directory for saving the model's parameters
 
 ## 1. Dynamic Convolution
 ### install all pakages in first cell
