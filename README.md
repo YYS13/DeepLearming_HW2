@@ -20,3 +20,5 @@
 ### Run all
 ### You will get four-layer model information for 3channels input
 ### Model's parameters will be saved in ./models as  3_channels_four_layer_model.pth 
+
+# ./Resault directory save all result screenshots of models 
